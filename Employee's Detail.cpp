@@ -21,7 +21,7 @@ int main()
    cout<<"Please enter Employee Phone Number ";
    cin>>EP;
    
-   cout<<"Employee Details: "<<endl;
+   cout<<"Employee Details: "<<endl;                   /* Printing Employee's Details*/
    cout<<"Employee Name: " <<EN <<endl;
    cout<<"Employee Number: " <<Enm <<endl;
    cout<<"Employee Address: " <<Ead <<endl;
